@@ -66,9 +66,9 @@ ul, ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-
 }
- .button {
+
+.button {
     cursor: pointer;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4D5AE5;
@@ -78,11 +78,11 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
- }
+}
 
- .button:hover,  .button:focus {
+.button:hover,  .button:focus {
     background-color: #404BBF;
- }
+}
 
 .avantage-item {
     font-weight: 500;
