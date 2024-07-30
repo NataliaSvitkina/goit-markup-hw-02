@@ -74,6 +74,7 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5;
 }
 
 .button:hover,  .button:focus {
@@ -126,7 +127,11 @@ ul, ol {
     letter-spacing: 0.02em;
     color: #434455;
 }
- 
+
+.employees .name-section {
+    color: #2e2f42;
+}
+
 .item-portfolio {
     font-weight: 500;
     font-size: 20px;
