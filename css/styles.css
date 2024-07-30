@@ -13,7 +13,7 @@ ul, ol {
 }
 
 .logo {
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -55,8 +55,6 @@ ul, ol {
 
 .main-section {
     background: #2e2f42;
-    width: 1440px;
-    height: 600px;
 }
 
 .slogan {
@@ -70,9 +68,7 @@ ul, ol {
 
 .button {
     cursor: pointer;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -89,6 +85,7 @@ ul, ol {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .avantage-item-descr {
@@ -154,4 +151,7 @@ ul, ol {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.page-bottom .logo-color {
+    color: #f4f4fd;
 }
